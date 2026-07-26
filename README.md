@@ -148,7 +148,8 @@ The route-level analysis identifies where Qantas experienced its highest cancell
   <img src="images/operational-pressure-points.png" alt="Qantas domestic route cancellation pressure points" width="900">
 </p>
 
-**Key insight:** Sydney–Canberra and Canberra–Sydney recorded the highest cancellation rates at approximately **6.2%**, followed by Melbourne–Sydney at **5.5%** and Sydney–Melbourne at **5.4%**.
+**Key insight:** Canberra-Sydney, Melbourne-Sydney and vice versa routes account for approximately 25% of Qantas's total 
+domestic cancellations. 
 
 ---
 
