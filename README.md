@@ -37,10 +37,10 @@ The dashboard reveals an important management tension: **Qantas retained its wor
 
 | Deliverable | Description | Access |
 |---|---|---|
-| Tableau Dashboard | Packaged interactive Tableau workbook | [Open dashboard file](dashboard/qantas-executive-dashboard.twbx) |
-| Executive Report | Full project commentary, analysis, limitations, and references | [Read the report](report/executive-dashboard-report.pdf) |
-| Processed Data | Analytical datasets prepared for dashboard development | [Browse processed data](data/processed/) |
-| Source Documentation | External data sources and source-use policy | [View data sources](data/sources.md) |
+| 📊 Tableau Dashboard | Packaged interactive Tableau workbook | [Open dashboard file](dashboard/qantas-executive-dashboard.twbx) |
+| 📄 Executive Report | Full project commentary, analysis, limitations, and references | [Read the report](report/executive-dashboard-report.pdf) |
+| 📁 Processed Data | Analytical datasets prepared for dashboard development | [Browse processed data](data/processed/) |
+| 📚 Data Sources | External data sources and source-use policy | [View data sources](data/sources.md) |
 
 > **Viewing the dashboard:** The packaged `.twbx` workbook can be opened in Tableau Desktop or Tableau Reader. The dashboard screenshots below provide a complete visual walkthrough for visitors who do not have Tableau installed.
 
@@ -91,15 +91,6 @@ This sequence moves the analysis from organisation-wide performance to specific 
 
 ## Dashboard Highlights
 
-### Executive Dashboard
-
-The complete dashboard combines KPI cards, airline comparisons, workforce indicators, service recognition, filters, and route-level analysis in one executive view.
-
-<p align="center">
-  <img src="images/dashboard-overview.png" alt="Complete executive decision dashboard" width="1000">
-</p>
-
----
 
 ### Competitive Position
 
@@ -319,8 +310,6 @@ qantas-cabin-crew-workforce-analysis/
 ## Author
 
 **Md Soad Solaiman**
-Master of Data Science
-The University of Adelaide
 
 ---
 
